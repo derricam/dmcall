@@ -1,8 +1,8 @@
 def setup():
     size(250,350)
-    ellipse(100, 150, 50, 70)
+    ellipse(200, 250, 150, 170)
     fill(0,120,255)
-    bezier(125,150,80,100,110,150,75,150)
+    bezier(225,250,180,200,210,250,175,250)
     someText= "ocean spray"
     text(someText, 10, 250)
     
